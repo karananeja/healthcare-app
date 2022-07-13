@@ -1,0 +1,12 @@
+.dynamicComponent__heading {
+  text-align: center;
+}
+
+.dynamicComponent__table,
+.dynamicComponent__table > tbody > tr > tr,
+.dynamicComponent__table > tbody > tr > td,
+.dynamicComponent__table > tbody > tr > tr > td {
+  border: 1px solid black;
+  text-align: center;
+  width: 25vw;
+}
